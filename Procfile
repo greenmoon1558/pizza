@@ -1,1 +1,1 @@
-web: ./node_modules/webpack/bin/webpack.js
+web: npm run start
